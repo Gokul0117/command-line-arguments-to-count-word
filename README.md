@@ -40,6 +40,7 @@ for i in fp:
         else:
             d[w]+=1
 print(d)
+```
 
 ### OUTPUT:
 ![Screenshot from 2023-01-26 17-22-38](https://user-images.githubusercontent.com/121165938/214828889-4a4768e0-3a64-4811-9078-09817981e9df.png)
